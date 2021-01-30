@@ -386,11 +386,6 @@
   margin-bottom: 2rem;
 }
 
-.contact a {
-  font-size: 2rem;
-  margin-top: 1.5rem;
-}
-
 .contact a:hover {
   color: #213d57;
 }
@@ -419,7 +414,7 @@
           transform: rotate(90deg) translate(-3rem, -5rem);
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 700px) {
   .menu-btn {
     visibility: hidden;
   }
@@ -471,8 +466,8 @@
         grid-template-columns: 1fr 1fr 1fr;
   }
   .contact__list {
-    -ms-grid-columns: 1fr 1fr 1fr;
-        grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 }
 

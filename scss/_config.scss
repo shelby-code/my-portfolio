@@ -20,7 +20,7 @@ $numbertwo-color: rgb(170, 170, 170);
 }
 
 @mixin media-md {
-    @media screen and (min-width: 768px) {
+    @media screen and (min-width: 700px) {
         @content;
     }    
 }
