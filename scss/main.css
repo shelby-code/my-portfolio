@@ -386,6 +386,15 @@
   margin-bottom: 2rem;
 }
 
+.contact a {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+
+.contact a:hover {
+  color: #213d57;
+}
+
 .contact__list {
   display: -ms-grid;
   display: grid;
