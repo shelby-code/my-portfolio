@@ -13,7 +13,7 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: url("/dist/img/photo-1432265910742-819d660410b4.jpg") center top;
+  background: url("../dist/img/photo-1432265910742-819d660410b4.jpg") center top;
   background-size: cover;
 }
 
@@ -173,7 +173,7 @@
 .about__bio-image {
   height: 50vh;
   width: 100%;
-  background: url("/dist/img/photo-1432265910742-819d660410b4.jpg") left top no-repeat;
+  background: url("../dist/img/photo-1432265910742-819d660410b4.jpg") left top no-repeat;
   background-size: cover;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -262,7 +262,7 @@
 .projects__bio-image {
   height: 30vh;
   width: 100%;
-  background: url("/dist/img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg") left top no-repeat;
+  background: url("../dist/img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg") left top no-repeat;
   background-size: cover;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -377,7 +377,7 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url("/dist/img/photo-1432265910742-819d660410b4.jpg") center top;
+  background: url("../dist/img/photo-1432265910742-819d660410b4.jpg") center top;
   background-size: cover;
 }
 
